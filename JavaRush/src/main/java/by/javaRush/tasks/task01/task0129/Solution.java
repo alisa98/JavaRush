@@ -1,4 +1,4 @@
-package by.javaRush.task01.task0129;
+package by.javaRush.tasks.task01.task0129;
 
 public class Solution {
     public static void main(String[] args) {
