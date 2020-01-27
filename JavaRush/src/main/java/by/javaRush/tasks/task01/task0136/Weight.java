@@ -1,6 +1,6 @@
 package by.javaRush.tasks.task01.task0136;
 
-public class Solution {
+public class Weight {
 
     public static void main(String[] args){
 

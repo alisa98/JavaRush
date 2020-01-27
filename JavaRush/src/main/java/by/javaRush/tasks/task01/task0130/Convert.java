@@ -1,6 +1,6 @@
 package by.javaRush.tasks.task01.task0130;
 
-public class Solution {
+public class Convert {
 
     public static void main(String[] args) {
         System.out.println(convertCelsiusToFahrenheit(41));

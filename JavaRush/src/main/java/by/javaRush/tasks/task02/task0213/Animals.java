@@ -1,6 +1,6 @@
 package by.javaRush.tasks.task02.task0213;
 
-public class Solution {
+public class Animals {
     public static void main(String[] args) {
         //напишите тут ваш ко
         Woman woman = new Woman();

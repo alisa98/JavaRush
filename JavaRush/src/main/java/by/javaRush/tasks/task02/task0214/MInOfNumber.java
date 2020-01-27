@@ -1,6 +1,6 @@
 package by.javaRush.tasks.task02.task0214;
 
-public class Solution {
+public class MInOfNumber {
 
     public static void main(String[] args){
         System.out.println(min(4,5));

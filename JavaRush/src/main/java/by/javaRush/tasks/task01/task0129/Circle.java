@@ -1,6 +1,6 @@
 package by.javaRush.tasks.task01.task0129;
 
-public class Solution {
+public class Circle {
     public static void main(String[] args) {
         printCircleLength(5);
     }
