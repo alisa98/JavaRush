@@ -1,4 +1,4 @@
-package by.javaRush.tasks.task03.task303;
+package by.javaRush.tasks.task03.task0303;
 
 public class ConvertCarrency {
     public static void main(String[] args) {

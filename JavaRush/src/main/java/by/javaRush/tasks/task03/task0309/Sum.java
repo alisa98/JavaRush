@@ -1,4 +1,4 @@
-package by.javaRush.tasks.task03.task309;
+package by.javaRush.tasks.task03.task0309;
 
 public class Sum {
     public static void main(String[] args) {

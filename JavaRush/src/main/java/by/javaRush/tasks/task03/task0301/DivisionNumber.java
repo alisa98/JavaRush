@@ -1,4 +1,4 @@
-package by.javaRush.tasks.task03.task301;
+package by.javaRush.tasks.task03.task0301;
 
 public class DivisionNumber {
     public static void main(String[] args) {
