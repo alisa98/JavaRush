@@ -10,4 +10,3 @@ public class Time {
         return hours*3600;
     }
 }
- //
